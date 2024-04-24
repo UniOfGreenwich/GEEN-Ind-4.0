@@ -1,4 +1,4 @@
-# Here is a simple start to making AR a thing Mike Sharp March 2024.
+# Here is a simple start to making AR a thing Mike Sharp March / April 2024.
 # All these code samples are VERY CRUDE, but they will give you a good idea
 # of how easy it is to create 'AR' content in code.
 # This one is the crudest of the lot.
